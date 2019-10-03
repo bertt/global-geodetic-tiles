@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>GlobalGeodetic</RootNamespace>
+    <Version>0.1</Version>
+    <Authors>Bert Temme</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/bertt/global-geodetic-tiles</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/bertt/global-geodetic-tiles</PackageProjectUrl>
+  </PropertyGroup>
+
+</Project>
