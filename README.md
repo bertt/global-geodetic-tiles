@@ -1,7 +1,6 @@
 # global-geodetic-tiles
 
-Functions for global geodetic tiling profile.  The global geodetic tiling profile uses the TMS tiling schema (origin [0,0] in bottom-left) but has 
-Pyramid has on top level two tiles, so it is not square but rectangle. Area [-180,-90,180,90] is scaled to 512x256 pixels. 
+Functions for global geodetic tiling profile.  The global geodetic tiling profile uses the TMS tiling schema (origin [0,0] in bottom-left) but the pyramid has on top level two tiles, so it is not square but rectangle. Area [-180,-90,180,90] is scaled to 512x256 pixels. 
 
 Inspired on functions in https://quantized-mesh-tile.readthedocs.io/en/latest/globalgeodetic.html
 
